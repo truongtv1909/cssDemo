@@ -5,3 +5,10 @@
     color:red;
     border: solid 1px #555;
 }
+
+._input:focus{
+    background-color: #EEE;
+}
+p:first-child{
+    background: yellow;
+}
