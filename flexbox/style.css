@@ -3,5 +3,9 @@
 }
 .container{
     display: flex;
+    background-color: #DDD;
     flex-direction: row;
+    justify-content: center;
+    height: 250px;
+    align-items: stretch;
 }
