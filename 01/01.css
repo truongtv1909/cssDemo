@@ -1,0 +1,51 @@
+p{
+    font-size: 50px;
+}
+h3{
+    color: red;
+}
+
+.df-1{
+    text-decoration: none;
+    color: rgb(122, 122, 212);
+}
+
+.df-1:visited{
+    text-decoration: none;
+    color:  rgb(122, 122, 212);
+}
+
+.df-1:hover{
+    text-decoration: underline;
+    color: goldenrod;
+}
+.df-1:active{
+    text-decoration: none;
+    color: blue;
+    /* transition: 2s; */
+}
+.df-2{
+    color: white;
+    background: rgb(108, 108, 201);
+    padding: 14px;
+    text-decoration: none;
+    
+}
+.df-2:visited{
+    color: white;
+}
+.df-2:hover{
+    background: rgb(134, 98, 63);
+    transition: 0.5s;
+}
+._bock{
+    display: block;
+    background-color: aquamarine;
+    /* height: 100px; */
+}
+._inline{
+    display: inline;
+    background-color: aquamarine;
+    /* height: 500px; */
+}
+
