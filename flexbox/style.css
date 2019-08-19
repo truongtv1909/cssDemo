@@ -19,7 +19,7 @@
 .child-2{
     background-color: green;
     flex-basis: 200px;
-    flex-grow: 1;
+    flex-grow: 0;
 }
 .child-3{
     background-color: blue;
