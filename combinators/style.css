@@ -1,0 +1,7 @@
+.x {
+    color : red;
+}
+.list-1 > .item {
+    color:red;
+    border: solid 1px #555;
+}
