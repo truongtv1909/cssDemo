@@ -1,3 +1,21 @@
-.test{
-    color: red;
+.container{
+    display: flex;
+}
+.box {
+    width:200px;
+    height:250px;
+}
+.red{
+    background-color: red;
+    position: relative;
+    /* top: -10px; */
+}
+.green{
+    background-color: green;
+    position: relative;
+    top: 10px;
+    left: 100px;
+}
+.blue{
+    background-color: blue;
 }
