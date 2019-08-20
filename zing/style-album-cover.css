@@ -51,6 +51,7 @@ box-sizing: border-box;
 }
 .a-album{
  text-decoration: none;
+ color: #333;
 }
 .a-album:visited{
     text-decoration: none;
