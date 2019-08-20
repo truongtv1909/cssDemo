@@ -1,0 +1,38 @@
+.container{
+    width: 960px;
+    margin: 0 auto;
+    color: #FFF;
+}
+.head{
+    width: 100%;
+    height: 300px;
+    background-color: #555;
+}
+.sidebar{
+    width: 20%;
+    /* height: 500px; */
+    background-color:rgb(63, 92, 77);
+    float: left;
+}
+.main{
+    padding-left: 5px;
+    width: 80%;
+    /* height: 500px; */
+    background-color:rgb(68, 58, 36);
+    float: right;
+}
+.footer{
+    width: 100%;
+    height: 100px;
+    background-color:rgb(44, 57, 68);
+    clear: both;
+    /* float: left; */
+}
+.wrapper{
+    content: '';
+    /* background-color: yellow;
+    clear: both; */
+    border: #000 solid 1px;
+    /* overflow:auto; */
+    /* padding: 1em; */
+}

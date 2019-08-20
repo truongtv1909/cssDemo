@@ -39,7 +39,7 @@ h3{
     transition: 0.5s;
 }
 ._bock{
-    display: block;
+    /* display: block; */
     background-color: aquamarine;
     /* height: 100px; */
 }
@@ -47,5 +47,8 @@ h3{
     display: inline;
     background-color: aquamarine;
     /* height: 500px; */
+}
+.div-float-feft{
+    /* float: left; */
 }
 
