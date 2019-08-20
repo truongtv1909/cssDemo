@@ -13,7 +13,7 @@
     display: flex; 
     justify-content: center;
     align-items: center; 
-    
+ 
 }
 .sub{
     position: relative;
@@ -25,6 +25,7 @@
     display: flex;
     justify-content: flex-start;
     align-items: center;
+    padding-left: 8px;
 }
 .sub-menu{
     list-style: none;
