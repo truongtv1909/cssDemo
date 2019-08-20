@@ -1,0 +1,21 @@
+.container .ul-menu{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+.li{
+    
+    background-color:#555;
+    color:#FFF;
+    border: #FFF solid 1px;
+    height:40px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    color:#FFF;
+}
