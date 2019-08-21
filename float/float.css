@@ -9,22 +9,26 @@
     background-color: #555;
 }
 .sidebar{
-    width: 20%;
+    width: 260px;
     /* height: 500px; */
     background-color:rgb(63, 92, 77);
     float: left;
+    padding: 5px;
 }
 .main{
-    padding-left: 5px;
-    width: 80%;
+    /* padding-left: 5px; */
+    width: 678px;
     /* height: 500px; */
     background-color:rgb(68, 58, 36);
     float: right;
+    height: 100%;
+    padding: 5px;
 }
 .footer{
     width: 100%;
     height: 100px;
     background-color:rgb(44, 57, 68);
+    
     clear: both;
     /* float: left; */
 }
@@ -35,4 +39,5 @@
     border: #000 solid 1px;
     /* overflow:auto; */
     /* padding: 1em; */
+    background-color:rgb(68, 58, 36);
 }
