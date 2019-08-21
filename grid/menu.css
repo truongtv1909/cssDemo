@@ -5,7 +5,7 @@
 }
 .li{
     
-    background-color:#555;
+    background-color:rgb(144, 144, 211);
     color:#FFF;
     border: #666 solid 1px;
     height:40px;
@@ -33,7 +33,7 @@
 .sub-menu{
     list-style: none;
     position:absolute;
-    background-color:#555;
+    background-color:rgb(144, 144, 211);
   
     padding: 0 ;
     left: 0;
