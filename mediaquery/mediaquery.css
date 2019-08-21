@@ -1,0 +1,20 @@
+/* body{
+    margin: 0 auto;
+} */
+.container{
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    width: 960px;
+}
+.div{
+    width: 300px;
+    height: 150px;
+    background-color: #555;
+    border: #EEE solid 1px;
+}
+@media (min-width: 600px){
+    .container{
+    flex-direction: row;
+    }
+}
