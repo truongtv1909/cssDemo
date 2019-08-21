@@ -1,18 +1,40 @@
 .div{
-    margin: 30px;
+    margin: 100px;
+}
+.d-1{
+    width: 150px;
+    height: 150px;
+    background-color: #888;
+    /* margin: 0; */
 }
 .div-1{
     width: 150px;
     height: 150px;
     background-color: #555;
+    margin: 0;
+}
+.div-1:hover{
+    transform:translate(10px,10px);
+    transition: 1s;
 }
 .div-2{
     width: 150px;
     height: 150px;
     background-color: #777;
+    margin: 0;
 }
+.div-2:hover{
+    transform: scale(0.5);
+    transition: 1s;
+}
+
 .div-3{
     width: 150px;
     height: 150px;
     background-color: #333;
+    margin: 0;
+}
+.div-3:hover{
+    transform: rotate(10000deg);
+    transition: 1s;
 }
