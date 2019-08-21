@@ -1,0 +1,7 @@
+.container{
+    display: grid;
+    grid-template-columns: 70% 30%;
+}
+/* .head{
+    grid-column: 1/3;
+} */
