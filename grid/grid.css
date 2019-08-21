@@ -1,2 +1,12 @@
-
-
+.head{
+    background-color:orange;
+}
+.main{
+    background-color: #777;
+}
+.sidebar{
+    background-color: rgb(255, 241, 241);
+}
+.footer{
+    background-color: #333;
+}
