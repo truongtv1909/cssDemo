@@ -1,0 +1,18 @@
+.div{
+    margin: 30px;
+}
+.div-1{
+    width: 150px;
+    height: 150px;
+    background-color: #555;
+}
+.div-2{
+    width: 150px;
+    height: 150px;
+    background-color: #777;
+}
+.div-3{
+    width: 150px;
+    height: 150px;
+    background-color: #333;
+}
